@@ -1,3 +1,10 @@
+# Ciao!
+
+Mi chiamo **Giovanni** (in arte **GhadGM**) e sono uno studente di Informatica presso l'**Università della Calabria**. Sto attualmente lavorando a **diversi progetti universitari** dove sto imparando ad utilizzare tutte le potenzialità di **GitHub**, **Java** e **sviluppo e gestione di Database**.
+
+Attualmente sto studiando **C++**, dopo di esso studierò **Lua** per lo sviluppo di un progetto riguardante lo **sviluppo di interfacce e plugin per FiveM**.
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/448479460690362370) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/giovanni_muraca/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovannimuraca/) 
