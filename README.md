@@ -1,6 +1,8 @@
 # Ciao!
 
-Mi chiamo **Giovanni** (in arte **GhadGM**) e sono uno studente di Informatica presso l'**Università della Calabria**. Sto attualmente lavorando a **diversi progetti universitari** dove sto imparando ad utilizzare tutte le potenzialità di **GitHub**, **Java** e **sviluppo e gestione di Database**.
+Mi chiamo **Giovanni** (in arte **GhadGM**) e sono uno studente di Informatica presso l'**Università della Calabria**, un gamer di FPS competitivi e quando ho la vena artistica, creo qualche pezzo che pubblico su [**Soundcloud**](https://soundcloud.com/ghadgm).
+
+Sto attualmente lavorando a **diversi progetti universitari** dove sto imparando ad utilizzare tutte le potenzialità di **GitHub**, **Java** e **sviluppo e gestione di Database**.
 
 Attualmente sto studiando **C++**, dopo di esso studierò **Lua** per lo sviluppo di un progetto riguardante lo **sviluppo di interfacce e plugin per FiveM**.
 
