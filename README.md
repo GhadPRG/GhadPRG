@@ -1,6 +1,6 @@
 # Ciao!
 
-Mi chiamo **Giovanni** (in arte **GhadGM**) e sono uno studente di Informatica presso l'**Università della Calabria**, un gamer di FPS competitivi e quando ho la vena artistica, creo qualche pezzo che pubblico su [**Soundcloud**](https://soundcloud.com/ghadgm).
+Mi chiamo **Giovanni** (in arte **GhadGM**) e sono uno studente di Informatica presso l'**Università della Calabria**, un gamer di FPS e quando ho la vena artistica, creo qualche pezzo che pubblico su [**Soundcloud**](https://soundcloud.com/ghadgm).
 
 
 
